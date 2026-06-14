@@ -9,7 +9,7 @@
 
 ## Before
 - ⚙️ Compiler Engineering Intern @ **Embecosm** — [gccrs](https://github.com/Rust-GCC/gccrs) (GCC Rust front-end, C++)
-- 🍎 Open-source contributor — **Swift compiler**, **Helix**
+- 🍎 Open-source contributor — **Helix**
 - ❄️ Built a [NixOS flake](https://github.com/lucasly-ba/swift-nixos) to build the full Swift toolchain from source — so NixOS users can contribute to Swift
 
 ## Find me
