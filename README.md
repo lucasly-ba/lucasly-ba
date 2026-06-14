@@ -1,16 +1,16 @@
-## Hi! I'm Lucas
-
-**Rust · C++ · C** — compilers, systems software, developer tools.
+## Hi, I'm Lucas
+**Rust · C++ · C**: compiler engineering, systems software, developer tools.
 
 ## Now
-- 🦀 **GSoC 2026** — building [debian-lsp](https://github.com/jelmer/debian-lsp), an LSP for Debian packaging files @ Debian
-- 🐯 **Tiger Compiler Maintainer** @ EPITA — Worked on 5 SSA optimization passes
-- 🔧 **Building** — [mole](https://github.com/lucasly-ba/mole) (keyboard-driven mouse navigator, X11/AT-SPI)
+- 🦀 **Google Summer of Code 2026 @ Debian**: building [debian-lsp](https://github.com/jelmer/debian-lsp), an LSP for Debian packaging files in Rust.
+- 🐯 **Tiger Compiler Maintainer @ EPITA**: implementing SSA optimization passes (constant folding, copy propagation, dead code elimination) for a production student compiler.
+- 🍎 **Open-source contributor**: Debian, Swift, gccrs.
+- 🔧 **[mole](https://github.com/lucasly-ba/mole)**: keyboard-driven mouse navigator for X11, OCR-based hint labeling.
+- ❄️ **[swift-nixos](https://github.com/lucasly-ba/swift-nixos)**: NixOS flake that builds the full Swift toolchain from source (compiler, stdlib, C++ interop, Foundation), so NixOS users can contribute to Swift.
 
 ## Before
-- ⚙️ Compiler Engineering Intern @ **Embecosm** — [gccrs](https://github.com/Rust-GCC/gccrs) (GCC Rust front-end, C++)
-- 🍎 Open-source contributor — **Swift compiler**, **Helix**
-- ❄️ Built a [NixOS flake](https://github.com/lucasly-ba/swift-nixos) to build the full Swift toolchain from source — so NixOS users can contribute to Swift
+- ⚙️ **Compiler Engineering Intern @ Embecosm**: worked on [gccrs](https://github.com/Rust-GCC/gccrs), the GCC Rust front-end in C++.
 
 ## Find me
-🌐 [lucaslyba.com](https://lucaslyba.com) · 📬 hi@lucaslyba.com
+- 🗂️ Portfolio: [lucaslyba.com](https://lucaslyba.com)
+- 📬 Contact: hi@lucaslyba.com
