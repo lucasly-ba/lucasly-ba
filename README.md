@@ -1,7 +1,7 @@
 ## Hi, I'm Lucas
 **Rust · C++ · C**: compiler engineering, systems software, developer tools.
 
-## What I do?
+## Build !
 
 - **Google Summer of Code 2026 @ Debian**: building [debian-lsp](https://github.com/jelmer/debian-lsp), an LSP for Debian packaging files in Rust.
 - **Tiger Compiler Maintainer @ EPITA**: implementing SSA optimization passes (constant propagation, constant folding, copy propagation, unreachable-code elimination dead code elimination) for a production student compiler.
